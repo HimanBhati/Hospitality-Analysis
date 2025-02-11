@@ -23,13 +23,15 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 
 **Skills and Technologies Used**
 
-Data Visualization: Created interactive dashboards in Power BI.
-Revenue Analysis: Conducted detailed analysis of revenue metrics.
-Presentation Skills: Developed comprehensive presentations to communicate findings.
-Technical Proficiency: Utilized Power BI and DAX for data modeling and analysis.
-Industry Terminology: Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number), RevPAR, and other hospitality-related metrics.
+1. **Data Visualization:** Created interactive dashboards in Power BI.
+2. **Revenue Analysis:** Conducted detailed analysis of revenue metrics.
+3. **Presentation Skills:** Developed comprehensive presentations to communicate findings.
+4. **Technical Proficiency:** Utilized Power BI and DAX for data modeling and analysis.
+5. **Industry Terminology**: Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number), RevPAR, and other hospitality-related metrics.
+
 Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
 
 **Live Dashboard**
 
-Explore the live dashboard 
+Explore the live dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNTUxNzg3ZDQtZmRhMC00NDkxLTkxMzMtNGVmZWVjMjBhNTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=76b56ecaab2770d8d944)
+
